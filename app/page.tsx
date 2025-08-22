@@ -59,6 +59,7 @@ export default function LandingPage() {
               optimize processes, and focus on what matters most.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link href="https://www.uol.com.br" target="_blank" rel="noopener
               <Button size="lg" className="bg-primary hover:bg-primary/90 text-primary-foreground">
                 Start Free Trial
                 <ArrowRight className="ml-2 h-5 w-5" />
